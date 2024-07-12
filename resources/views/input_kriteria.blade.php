@@ -19,7 +19,7 @@
             </div>
         @endfor
         <div>
-            <button type="submit" class="bg-blue-500 text-white py-2 px-4 rounded">Next</button>
+            <button type="submit" class="bg-blue-500 text-white py-2 px-4 rounded" style="color: black">Next</button>
         </div>
     </form>
 </x-layout>
